@@ -1,7 +1,7 @@
 # Личный проект «TaskForce»
 
 * Студент: [Aleksandr Malinin](https://up.htmlacademy.ru/yii/1/user/321121).
-* Наставник: `Неизвестно`.
+* Наставник: `Сам себе наставник`.
 
 ---
 
